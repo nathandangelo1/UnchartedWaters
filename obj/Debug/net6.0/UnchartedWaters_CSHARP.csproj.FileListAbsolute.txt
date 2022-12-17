@@ -1,0 +1,15 @@
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\bin\Debug\net6.0\UnchartedWaters_CSHARP.exe
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\bin\Debug\net6.0\UnchartedWaters_CSHARP.deps.json
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\bin\Debug\net6.0\UnchartedWaters_CSHARP.runtimeconfig.json
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\bin\Debug\net6.0\UnchartedWaters_CSHARP.dll
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\bin\Debug\net6.0\UnchartedWaters_CSHARP.pdb
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.csproj.AssemblyReference.cache
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.AssemblyInfoInputs.cache
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.AssemblyInfo.cs
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.dll
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\refint\UnchartedWaters_CSHARP.dll
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.pdb
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\UnchartedWaters_CSHARP.genruntimeconfig.cache
+C:\Users\POBOYINSAMSARA\source\repos\UnchartedWaters_CSHARP\UnchartedWaters_CSHARP\obj\Debug\net6.0\ref\UnchartedWaters_CSHARP.dll
